@@ -15,9 +15,9 @@
 | 地区       | 配置            | 带宽   | 流量  | 价格   | 购买链接                                 |
 |----------|----------------|------|------|------|----------------------------------------|
 | 日本     | 1核 / 1G内存 / 1G带宽 | 1T    | 60元/月 | [购买](https://666clouds.com/aff.php?aff=1828&pid=94) |
-| 香港     | 1核 / 1G内存 / 20G SSD | 50M带宽 | 800G/月 | 55元/月 | [购买](https://666clouds.com/aff.php?aff=1828&pid=131) |
+| 香港     | 1核 / 1G内存 / 20G SSD | 50M带宽  | 55元/月 | [购买](https://666clouds.com/aff.php?aff=1828&pid=131) |
 | 英国     | 1核 / 1G内存 / 500M带宽 | 2T/月  | 88元/月 | [购买](https://666clouds.com/aff.php?aff=1828&pid=130) |
-| 韩国     | 1核 / 1G内存 / 15G SSD | 30M带宽 | 800G/月 | 60元/月 | [购买](https://666clouds.com/aff.php?aff=1828&pid=87) |
+| 韩国     | 1核 / 1G内存 / 15G SSD | 30M带宽 | 60元/月 | [购买](https://666clouds.com/aff.php?aff=1828&pid=87) |
 | 美国     | 1核 / 1G内存 / 1G带宽 | 800G/月 | 60元/月 | [购买](https://666clouds.com/aff.php?aff=1828&pid=145) |
 
 ## 六六云666clouds 评测
